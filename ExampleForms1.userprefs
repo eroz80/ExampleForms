@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{FB68EDB5-6502-49D0-8997-CBC59A79CEBF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/iTunesMetadata.plist">
     <Files>
       <File FileName="Droid/MainActivity.cs" Line="24" Column="13" />
-      <File FileName="iOS/Info.plist" />
       <File FileName="iOS/iTunesMetadata.plist" />
+      <File FileName="iOS/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
