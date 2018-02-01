@@ -15,12 +15,12 @@ namespace ExampleForms1
                 case Device.iOS:
                     itemsPage = new NavigationPage(new ItemsPage())
                     {
-                        Title = "Browse"
+                        Title = "Browse1"
                     };
 
                     aboutPage = new NavigationPage(new AboutPage())
                     {
-                        Title = "About"
+                        Title = "About1"
                     };
                     itemsPage.Icon = "tab_feed.png";
                     aboutPage.Icon = "tab_about.png";
@@ -28,12 +28,12 @@ namespace ExampleForms1
                 default:
                     itemsPage = new ItemsPage()
                     {
-                        Title = "Browse"
+                        Title = "Browse1"
                     };
 
                     aboutPage = new AboutPage()
                     {
-                        Title = "About"
+                        Title = "About1"
                     };
                     break;
             }
